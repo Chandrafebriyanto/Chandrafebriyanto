@@ -1,5 +1,5 @@
 # 👋 Hello World, I'm Candra Febriyanto
-👀 I’m interested in Full Stack Development, Data Analysis, and Graphic Design.<br>🌱 I’m currently learning advanced web technologies and data visualization.<br>💞️ I’m looking to collaborate on web development and data-driven projects.<br>📫 How to reach me: febriyantocandra05@gmail.com<br>😃 Pronouns: He/Him<br>⚡ Fun fact: I love solving real-world problems with code and design!
+👀 I’m interested in Full Stack Development, Data Analysis, and Graphic Design.<br>🌱 I’m currently learning advanced web technologies and data visualization.<br>💞️ I’m looking to collaborate on web development and data-driven projects.<br>😃 Pronouns: He/Him<br>⚡ Fun fact: I love solving real-world problems with code and design!
 
 
 ## 🌐 Socials:
